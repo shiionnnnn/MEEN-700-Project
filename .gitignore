@@ -1,0 +1,7 @@
+.vscode/
+.vs/
+out/
+build/
+venv/
+.venv/
+__pycache__/
